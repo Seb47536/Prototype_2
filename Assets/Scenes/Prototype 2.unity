@@ -252,6 +252,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Fox_01
       objectReference: {fileID: 0}
+    - target: {fileID: 402006, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.014
+      objectReference: {fileID: 0}
     - target: {fileID: 441440, guid: e3245acddde40bf49aa555d6bdc14998, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -311,7 +315,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 450678, guid: 06aceaf909fec8f4081af49b1eea892e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.02
+      value: 8.78
       objectReference: {fileID: 0}
     - target: {fileID: 450678, guid: 06aceaf909fec8f4081af49b1eea892e, type: 3}
       propertyPath: m_LocalPosition.y
